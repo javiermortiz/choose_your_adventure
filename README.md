@@ -1,4 +1,4 @@
-# create_your_own_adventure
+# Choose Your Adventure
 
 - Clone the repo
 - Create a new branch
