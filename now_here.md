@@ -1,0 +1,1 @@
+- All I could see was green plains and forests with no civilization in sight.  Naturally, I knew what I had to do. 
